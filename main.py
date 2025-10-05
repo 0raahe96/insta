@@ -1,5 +1,6 @@
 import time
 import sys
+import requests
 
 def print_like_typing(text):
     for char in text:
